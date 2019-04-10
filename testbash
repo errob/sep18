@@ -1,0 +1,3 @@
+echo "Compiling SEPCITY"
+echo "Maketest.txt config"
+./sepcity maketest.txt < testcase1.txt

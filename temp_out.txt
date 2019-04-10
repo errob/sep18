@@ -1,0 +1,46 @@
+[0m[SETTING] BOARDSIZE 3 3[0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[34m[INFO] Coordinates are outside the board![0m
+[0m[RESIDENTS] 0[0m
+[0m[MONEY] 10000[0m
+[MAP]
+[32;42mG[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[35;45mT[0m
+sepcity> [0m[RESIDENTS] 0[0m
+[0m[MONEY] 9800[0m
+[MAP]
+[37;41mC[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[35;45mT[0m
+sepcity> [34m[INFO] Round: 1[0m
+[0m[RESIDENTS] 0[0m
+[0m[MONEY] 9300[0m
+[MAP]
+[37;41mC[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[35;45mT[0m
+sepcity> [34m[INFO] Stealing money and skipping town.[0m
+[0m[RESIDENTS] 0[0m
+[0m[MONEY] 0[0m
+[MAP]
+[37;41mC[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[32;42mG[0m
+[32;42mG[0m[32;42mG[0m[35;45mT[0m

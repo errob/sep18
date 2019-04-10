@@ -1,0 +1,31 @@
+{
+   Ignore dlopen bug.
+   Memcheck:Leak
+   ...
+   fun:_dl_open
+   ...
+}
+
+{
+   Ignore ctrl-c close error.
+   Memcheck:Leak
+   ...
+   fun:memalign
+   ...
+}
+
+{
+   Ignore readline still reachable.
+   Memcheck:Leak
+   ...
+   fun:readline
+   ...
+}
+
+{
+   Ignore add_history still reachable.
+   Memcheck:Leak
+   ...
+   fun:add_history
+   ...
+}
